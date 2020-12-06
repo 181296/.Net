@@ -1,0 +1,14 @@
+C:\Users\chopa\source\repos\Assignment\Day-1\obj\Debug\Day-1.csprojAssemblyReference.cache
+C:\Users\chopa\source\repos\Assignment\Day-1\obj\Debug\Day-1.csproj.CoreCompileInputs.cache
+C:\Users\chopa\source\repos\Assignment\Day-1\bin\Debug\Day-1.exe.config
+C:\Users\chopa\source\repos\Assignment\Day-1\bin\Debug\Day-1.exe
+C:\Users\chopa\source\repos\Assignment\Day-1\bin\Debug\Day-1.pdb
+C:\Users\chopa\source\repos\Assignment\Day-1\obj\Debug\Day-1.exe
+C:\Users\chopa\source\repos\Assignment\Day-1\obj\Debug\Day-1.pdb
+F:\.Net\Assignment\Day-1\bin\Debug\Day-1.exe.config
+F:\.Net\Assignment\Day-1\bin\Debug\Day-1.exe
+F:\.Net\Assignment\Day-1\bin\Debug\Day-1.pdb
+F:\.Net\Assignment\Day-1\obj\Debug\Day-1.csprojAssemblyReference.cache
+F:\.Net\Assignment\Day-1\obj\Debug\Day-1.csproj.CoreCompileInputs.cache
+F:\.Net\Assignment\Day-1\obj\Debug\Day-1.exe
+F:\.Net\Assignment\Day-1\obj\Debug\Day-1.pdb
