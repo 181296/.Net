@@ -19,9 +19,6 @@ namespace Question_1
 
         public Employee()
         {
-            EmpNo = 0;
-            Basic = 0;
-            Name = "";
         }
 
         public Employee(int EmpNo, string Name, decimal Basic)

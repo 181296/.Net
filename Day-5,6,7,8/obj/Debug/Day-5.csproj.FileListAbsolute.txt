@@ -1,0 +1,7 @@
+F:\.Net\Assignment\Day-5\bin\Debug\Day-5.exe.config
+F:\.Net\Assignment\Day-5\bin\Debug\Day-5.exe
+F:\.Net\Assignment\Day-5\bin\Debug\Day-5.pdb
+F:\.Net\Assignment\Day-5\obj\Debug\Day-5.csprojAssemblyReference.cache
+F:\.Net\Assignment\Day-5\obj\Debug\Day-5.csproj.CoreCompileInputs.cache
+F:\.Net\Assignment\Day-5\obj\Debug\Day-5.exe
+F:\.Net\Assignment\Day-5\obj\Debug\Day-5.pdb
